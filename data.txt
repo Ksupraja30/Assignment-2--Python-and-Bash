@@ -1,2 +1,0 @@
-Hi, I am Supraja Writing this file, This content was written using Python.
- Welcome to file handling!
