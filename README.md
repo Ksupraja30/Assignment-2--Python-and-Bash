@@ -96,8 +96,8 @@ data = f.read()
 print(data)
 f.close()
 
-***Output Screenshots and program files are attached
-Assignment1.py and that Output1.png
-Assignment2.py and that Output2.png
+***Output Screenshots and program files are attached : 
+Assignment1.py and that Output1.png, 
+Assignment2.py and that Output2.png, 
 Assignment3.py and that Output3and4.png***
 
